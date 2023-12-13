@@ -1,0 +1,16 @@
+/*
+body {
+background-color: #141414;
+}
+ */
+
+/* Hero Section */
+.hero-section  img {
+    border-radius: 20px;
+}
+
+/* Card Section */
+.cards-section img {
+    height: 4rem;
+    width: 4rem;
+}
